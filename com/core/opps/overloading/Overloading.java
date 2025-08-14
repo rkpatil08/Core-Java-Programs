@@ -4,8 +4,8 @@ public class Overloading {
     public static void main(String[] args) {
         Overloading overloading = new Overloading();
         overloading.method(10);
-        overloading.method("ABC");
-        overloading.method('A');
+        overloading.method("XYZ");
+        overloading.method('B');
     }
 
     public void method(int x) {
